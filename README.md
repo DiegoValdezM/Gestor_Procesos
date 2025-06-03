@@ -1,1 +1,1 @@
-# Gestor_Procesos
+# Gestor de Procesos
